@@ -1,0 +1,1 @@
+A literal follow-up with the tutorial, [SwiftUI Essential Training](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fswiftui-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DM%252Bodi9GaSMifM0hlEInE9g%253D%253D), provided by <i>Steven Lipton</i> on <i>LinkedinLearning</i>.
